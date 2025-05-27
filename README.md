@@ -6,7 +6,7 @@ automatically manages Windows HDR settings and display refresh rates based on th
 
 ## Dependencies
 
-*   MPV
-*   Windows
-*   HDRCmd.exe
-*   NirCmd.exe
+*   MPV Media Player
+*   Windows Operating System
+*   HDRCmd
+*   NirCmd
